@@ -15,5 +15,6 @@ Wearable Motion Sensor for Cosplay LED using Arduino Pro Mini
 - Soldering Iron
 
 ### Wiring
+[![Image from Gyazo](https://i.gyazo.com/fe03d2907b96dd686292f2de035296c1.png)](https://gyazo.com/fe03d2907b96dd686292f2de035296c1)
 
 ### Troubleshooting
